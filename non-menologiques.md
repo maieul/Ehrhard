@@ -1,5 +1,24 @@
 # Collections non ménologiques (III, 725)
 
+Dans ces collections, je place ces manuscrits hagiographiques et homilétiques dont les textes ne sont pas classés selon l'ordre du calendrier hagiographique ou de l'année liturgique mobile. 
+L'hypothèse selon laquelle ces collections sont sous-tendues par un autre calendrier divergent, est à rejeter, 
+tout d'abord parce qu'ils sont présents dans tous les grandes fonds de manuscrits à côté des autres collections, qui, nous l'avons exposé, sont ordonnés suivant le calendrier hagiographique byzantin uniforme et aussi le calendrier liturgique mobile uniforme,
+ensuite parce que dans de nombreux exemplaires de ces collections non ménologiques, les dates sont spécifiées, coïncidant avec celles des autres collections de calendrier hagiographique.
+Il arrive aussi quelques fois que l'ordre ménologique soit reconstitué dans la table des matiéres située au début du manuscrit, dans tous les cas il est identique au calendrier hagiographique byzantin à quelques petites exceptions près, qui s'observent également dans un exemplaire des isolé des collections annuelles, des ménologes et des panégyriques.
+
+On peut toutefois déduire du désordre manifeste parmi les textes présents dans  ces  très nombreuses  collections que ces textes, au moins la plupart du temps, n'étaient assurément pas destinés à la liturgie officielle ; parce qu'ils étaient très mal adaptés à ce but.
+Assurément, ils étaient plûtot pour la lecture privée, pour laquelle le strict respect de la succession des jours festifs individuels ou des dimanches du calendrier liturgique mobile pouvait être abandonné.
+Les dates des fêtes sont donc généralement abstentes et sont remplacées par un simple numéro d'ordre ; mais il leur manque souvent à la fois l'indication du jour et que le numéro d'ordre.
+Leur destion à un usage privé peut être observée de manière plus approfondie : ils sont dans dans leur majorité plus petits dans leur formats, habituellement *octavo*, se distinguant des grandes collections liturgiques avec leur majestueux formats *quarto* et *grand quarto*.
+En conséquence, leurs apparat est généralement très simple.
+Il en résulte une conséquence favorable pour les textes contenus dans ces collection privées ; car cela laisse supposer qu'ils ont dans une certaine mesure échappé au processus de transformation dont relevaient les textes lus publiquement à haute voix.
+Que cette conséquence soit vraie doit naturellement être vérifié dans chaque cas.
+Le fait est que, par exemple, les anciens textes du martyre de St. George n'ont pas été trouvés dans les grandes collections liturgiques, mais justement dans les manuscrits qui existent dans ces collections non ménologiques.
+
+En ce qui concerne leurs contenu, elles se divisent en deux groupes, exclusivement selon leurs ancienneté, suivant qu'elles contiennent des textes pré-métaphrastiques et qu'elles présentent aussi à côté de ces derniers des textes métaphrastiques et post-métaphrastiques. L'importance du ménologe métaphrastique pour l'histoire interne de l'hagiographie grecque a aussi des conséquences ici.
+
+
+
 ## I. Les collections pré-métaphrastiques (727)
 
  
