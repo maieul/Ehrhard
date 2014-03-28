@@ -35,6 +35,11 @@ Que les prédications et homélies attribuées à Jean Chrysostome se tiennent a
  
 ### A. Les collections annuelles non ordonnées (727)
 
+Dans ce groupe j'inclue les manuscrits qui contiennent des textes à la fois des fêtes fixes des saints et de l'année liturgique mobile, prenant notamment en compte  un grand nombre de fêtes de martyrs et de saints, comme on en trouve dans les anciennes collections annuelles ordonnées (à la différences des panégyriques).
+On trouve une répartition presque uniforme des textes hagiographiques et homilétiques, qui est caractéristique de ce type de collection, dans les manuscripts suivants:
+(Suit une liste de ms.)
+
+
 ### B. Les collections de textes martyrologiques et hagiographiques non ordonnés (733)
 
 ### C. Les panégyriques non ordonnés (753)
