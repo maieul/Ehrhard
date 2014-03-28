@@ -6,7 +6,7 @@ Le but de ce projet est de proposer des notes sur les différentes catégories d
 ## Comment participer
 1. Cloner le projet dans Github. 
 2. Éditer le fichier qui vous intéresse, selon la [syntaxe Markdown](http://fr.wikipedia.org/wiki/Markdown).
-Un fichier par type de manuscrit (correspondant à des § dans le plan). 
+Un dossier par "Abschnitt", un fichier par grand type de manuscrit (correspondant à des § dans le plan). 
 3. Proposer ensuite une pull request pour envoyer cela dans le dépôt principal.
 
 
