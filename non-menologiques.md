@@ -29,7 +29,7 @@ Dans les caractèristiques des collections non ménologiques on ne s'attend cepe
 les manuscrits individuels doivent donc être affectés au groupe auquel leur contenu principal s'adapte le mieux.
 Je les ordonne dans chaque groupe selon leurs ancienneté et je me limite alors à leurs textes du II.
 Une partie peut être observée même si la description détaillée n'est pas encore disponible, en général à partir de l'indication des Saints auquel se rapportent les textes hagiographiques, pour savoir l'ordre selon lequel ils sont en réalité (?).
-Il suffit de remarquer pour les textes homilétiques que la sélection des prédications pour les fêtes du Christ et de Marie représente l'année liturgique depuis le dimanche τοῦ τελώνου καὶ τοῦ φαρισαίου juste au dimanche τῶν ἀγίων πάντων, qui sont présents dans les collections annuelles et dans les panégyriques et sont honorés  de manière trés importantes dans ces collections.
+Il suffit de remarquer pour les textes homilétiques que la sélection des prédications pour les fêtes du Seigneur et de Marie représente l'année liturgique depuis le dimanche τοῦ τελώνου καὶ τοῦ φαρισαίου juste au dimanche τῶν ἀγίων πάντων, qui sont présents dans les collections annuelles et dans les panégyriques et sont honorés  de manière trés importantes dans ces collections.
 Que les prédications et homélies attribuées à Jean Chrysostome se tiennent au premier plan, se comprend de soi,  à cause de  la popularité que l'on connaît du Bouche d'Or dans l'Église byzantine, 
 
  
@@ -43,7 +43,7 @@ On trouve une répartition presque uniforme des textes hagiographiques et homil�
 ### B. Les collections de récits martyrologiques et hagiographiques non ordonnés (733)
 
 Le deuxième groupe des collections non ménologiques correspond donc aux ménologes annuels, ceux dont les textes font références uniquement, ou avec des exceptions mineures, aux fêtes de martyrs et de saints.
-Ils prennent en plus en compte ceux relatives aux fêtes du Christ et de Marie qui sont présents dans les ménologes.
+Ils prennent en plus en compte ceux relatives aux fêtes du Seigneur et de Marie qui sont présents dans les ménologes.
 Les parallélisme à ceux-ci sont faits essentiellement par l'élimination de l'année liturgique mobiles, qui n'est représentée en leur sein que de manière tout à fait exceptionelle. 
 
 (Suite une description des ≠ manuscrits)
