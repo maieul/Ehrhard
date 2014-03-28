@@ -19,7 +19,18 @@ En ce qui concerne leurs contenu, elles se divisent en deux groupes, exclusiveme
 
 
 
+
 ## I. Les collections pré-métaphrastiques (727)
+
+Cette première section se divise à nouveau en trois parties, qui reflétent la différence entre les trois principaux types de collections hagiographiques : les collections annuelles, les ménologes et les panégyriques.
+À partir de critères paléographiques, j'ajoute en outre un quatrième groupe, celui des collections italo-grecques.
+La séparation de ce groupe est aussi importante pour la raison, parcequ'il laisse voir de quelle manière les éditeurs des collections non ménologiques ont extrait leurs textes des anciennes éditions ordonnées ; car il n'y a aucun doute que ceux-ci sont plus jeunes que ceux-là.
+Dans les caractèristiques des collections non ménologiques on ne s'attend cependant pas à ce que les trois groupes correspondent exactement aux trois types de collections hagiograhiques ; 
+les manuscrits individuels doivent donc être affectés au groupe auquel leur contenu principal s'adapte le mieux.
+Je les ordonne dans chaque groupe selon leurs ancienneté et je me limite alors à leurs textes du II.
+Une partie peut être observée même si la description détaillée n'est pas encore disponible, en général à partir de l'indication des Saints auquel se rapportent les textes hagiographiques, pour savoir l'ordre selon lequel ils sont en réalité (?).
+Il suffit de remarquer pour les textes homilétiques que la sélection des prédications pour les fêtes du Christ et de Marie représente l'année liturgique depuis le dimanche τοῦ τελώνου καὶ τοῦ φαρισαίου juste au dimanche τῶν ἀγίων πάντων, qui sont présents dans les collections annuelles et dans les panégyriques et sont honorés  de manière trés importantes dans ces collections.
+Que les prédications et homélies attribuées à Jean Chrysostome se tiennent au premier plan, se comprend de soi,  à cause de  la popularité que l'on connaît du Bouche d'Or dans l'Église byzantine, 
 
  
 ### A. Les collections annuelles non ordonnées (727)
