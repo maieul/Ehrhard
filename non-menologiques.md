@@ -40,8 +40,13 @@ On trouve une répartition presque uniforme des textes hagiographiques et homil�
 (Suit une liste de ms.)
 
 
-### B. Les collections de textes martyrologiques et hagiographiques non ordonnés (733)
+### B. Les collections de récits martyrologiques et hagiographiques non ordonnés (733)
 
+Le deuxième groupe des collections non ménologiques correspond donc aux ménologes annuels, ceux dont les textes font références uniquement, ou avec des exceptions mineures, aux fêtes de martyrs et de saints.
+Ils prennent en plus en compte ceux relatives aux fêtes du Christ et de Marie qui sont présents dans les ménologes.
+Les parallélisme à ceux-ci sont faits essentiellement par l'élimination de l'année liturgique mobiles, qui n'est représentée en leur sein que de manière tout à fait exceptionelle. 
+
+(Suite une description des ≠ manuscrits)
 ### C. Les panégyriques non ordonnés (753)
 
 ### D. Les collections italo-grecs (776)
