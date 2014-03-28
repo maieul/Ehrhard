@@ -49,6 +49,11 @@ Les parallélisme à ceux-ci sont faits essentiellement par l'élimination de l'
 (Suite une description des ≠ manuscrits)
 ### C. Les panégyriques non ordonnés (753)
 
+Dans un troisième groupe sont regroupés ensemble ces manuscrits dont les textes consistent principalement à des prédications et des homélies pour l'année liturgique mobile en tenant compte des fêtes du Seigneur et de Marie et de ces grands fêtes hagiographiques qui sont représentées dans les panégyriques ordonnés.
+Ils présentent un paralléle complet avec les anciens panégyriques, desquels ils se distinguent seulement par le fait que leurs textes ne suivent pas l'ordre de l'année liturgique.
+Dans mon enquête sur les manuscrits qui appartiennent à ce groupe, j'indique seulement les fêtes hagiographiques qui sont présents dans ceux-ci, parce que leur importance pour la tradition hagiographique se limite aux textes correspondant à ces fêtes.
+Pour les textes homilétiques contenus dedans dont la présentation occuperais une très grande place, je renvoie aux sections 6 et 7 du tome 2 (note du trad. : il n'y a pas de section 7 dans le t. 2> sans doute renvoi à la section 5?).
+
 ### D. Les collections italo-grecs (776)
 
 Reprennent les groupes A, B, C ci-dessus.
